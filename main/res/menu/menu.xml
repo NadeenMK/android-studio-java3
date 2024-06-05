@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/sms"
+        android:icon="@drawable/sms2"
+        android:title="sms"
+        android:visible="true" />
+    <item
+        android:id="@+id/email"
+        android:icon="@drawable/email2"
+        android:title="email"
+        android:visible="true" />
+    <item
+        android:id="@+id/googleMap"
+        android:icon="@drawable/googlemaps2"
+        android:title="googleMap"
+        android:visible="true" />
+    <item
+        android:id="@+id/picture"
+        android:icon="@drawable/picture2"
+        android:title="picture"
+        android:visible="true" />
+</menu>
